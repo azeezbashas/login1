@@ -1,0 +1,28 @@
+.login-box{
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    border-radius: 3px;
+}
+form{
+    width: 150px;
+    margin-left: 20px;
+    
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 150%;
+    padding: 7px;
+    border: none;
+    border: 1px solid grey;
+    border-radius: 4px;
+    outline: none; 
+
+}
+p{
+    text-align: center;
+}
